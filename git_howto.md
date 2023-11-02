@@ -16,7 +16,9 @@ git commit -m "Message"
 ```sh
 git status
 ```
-
+## Отображение состояния, просмотр и фильтрация истории проекта и поиск конкретных изменений
+```sh
 git log
+```
 git log --oneline
 git checkout
