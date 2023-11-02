@@ -12,6 +12,10 @@ git add
 ```sh
 git commit -m "Message"
 ```
+## Просмотр состояния репозитория
+```sh
+git status
+```
 
 git log
 git log --oneline
