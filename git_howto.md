@@ -28,3 +28,7 @@ git log --oneline
 ```sh
 git checkout
 ```
+## Слияние веток
+```sh
+git merge
+```
