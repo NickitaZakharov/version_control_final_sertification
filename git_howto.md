@@ -28,3 +28,7 @@ git log --oneline
 ```sh
 git checkout
 ```
+## Удаление веток
+```sh
+git branch -d название_ветки
+```
