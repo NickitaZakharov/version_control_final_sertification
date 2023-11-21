@@ -32,3 +32,7 @@ git checkout
 ```sh
 git branch -d название_ветки
 ```
+## ВВизуализация веток
+```sh
+git log --graph
+```
